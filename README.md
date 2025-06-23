@@ -68,14 +68,5 @@ Descontos:
 (=) Total     =    R$ 309,63
 ```
 
----
 
-## Exercício `FilaDeNotas`
 
-Receba pares de valores representando uma nota musical (`do`, `re`, `mi`, `fa`, `sol`, `la`, `si`) e um tempo (em millisegundos), armazenando-os em uma fila.
-
-Finalize a entrada de notas ao receber `parar`.
-
-Execute os _beeps_ equivalentes a cada nota pelo tempo especificado, em sequência.
-
----
