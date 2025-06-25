@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\bin\Debug\net9.0\exdescontoatacado.exe
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\bin\Debug\net9.0\exdescontoatacado.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\bin\Debug\net9.0\exdescontoatacado.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\bin\Debug\net9.0\exdescontoatacado.dll
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\bin\Debug\net9.0\exdescontoatacado.pdb
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\obj\Debug\net9.0\exdescontoatacado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\obj\Debug\net9.0\exdescontoatacado.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\obj\Debug\net9.0\exdescontoatacado.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\obj\Debug\net9.0\exdescontoatacado.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\obj\Debug\net9.0\exdescontoatacado.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\obj\Debug\net9.0\exdescontoatacado.dll
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\obj\Debug\net9.0\refint\exdescontoatacado.dll
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\obj\Debug\net9.0\exdescontoatacado.pdb
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\obj\Debug\net9.0\exdescontoatacado.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista6\exdescontoatacado\obj\Debug\net9.0\ref\exdescontoatacado.dll
